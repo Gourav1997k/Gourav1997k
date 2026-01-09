@@ -32,11 +32,12 @@ I am always learning and keeping myself up to date as the industry moves forward
 
 ---
 
-### 📊 GitHub Ecosystem
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Gourav1997k&show_icons=true&theme=radical" alt="Gourav's Stats" height="150px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav1997k&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
-</p>
+### 📂 Featured Projects
+
+| Project | Tech Stack | Key Achievement |
+| :--- | :--- | :--- |
+| **[CHD Prediction](https://github.com/Gourav1997k/Prediction_of_coronary_heart_disease_Framingham)** | `R`, `Logistic Regression` | Achieved **85% accuracy** in classifying coronary heart disease. |
+| **[Vehicle Theft Analysis](https://github.com/Gourav1997k/Motor-Vehicle-thefts-SQL-EDA)** | `MySQL`, `Data Cleaning` | Mapped crime hotspots using advanced SQL query optimization. |
 
 ---
 
