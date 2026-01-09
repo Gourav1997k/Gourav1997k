@@ -37,9 +37,9 @@ I am always learning and keeping myself up to date as the industry moves forward
 
 | Project | Tech Stack | Key Achievement |
 | :--- | :--- | :--- |
-| **[CHD Prediction](https://github.com/Gourav1997k/Prediction_of_coronary_heart_disease_Framingham)** | `R`, `Logistic Regression` | [cite_start]Achieved **85% accuracy** in classifying coronary heart disease. |
-| **[NYC Airbnb Analysis](https://github.com/Gourav1997k/NYC-Airbnb-Exploratory-Analysis)** | `Python`, `Pandas`, `Seaborn` | [cite_start]**(Work in Progress)** Performing deep EDA to identify pricing trends and host behavior. |
-| **[Vehicle Theft Analysis](https://github.com/Gourav1997k/Motor-Vehicle-thefts-SQL-EDA)** | `MySQL`, `Data Cleaning` | [cite_start]Mapped crime hotspots using advanced SQL query optimization. |
+| **[CHD Prediction](https://github.com/Gourav1997k/Prediction_of_coronary_heart_disease_Framingham)** | `R`, `Logistic Regression` | Achieved **85% accuracy** in classifying coronary heart disease. |
+| **[NYC Airbnb Analysis](https://github.com/Gourav1997k/NYC-Airbnb-Exploratory-Analysis)** | `Python`, `Pandas`, `Seaborn` | **(Work in Progress)** Performing deep EDA to identify pricing trends and host behavior. |
+| **[Vehicle Theft Analysis](https://github.com/Gourav1997k/Motor-Vehicle-thefts-SQL-EDA)** | `MySQL`, `Data Cleaning` | Mapped crime hotspots using advanced SQL query optimization. |
 
 ---
 
