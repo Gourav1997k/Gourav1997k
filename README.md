@@ -1,7 +1,14 @@
 # Hi, I'm Gourab Karmakar 👋
 ### Data Engineer | Statistician | Azure Specialist
 
-[cite_start]I am a **Deputy Manager** at Protiviti [cite: 10, 11] [cite_start]with a strong foundation in **Statistics** (M.Sc)[cite: 37]. I specialize in bridging the gap between complex statistical theory and scalable cloud data engineering. 
+I am a **Deputy Manager** at Protiviti.With a strong foundation in **Statistics** (M.Sc). I have a strong background in Statistics and I have more than 4 years of experience
+in the industry.  I have worked mainly in Python, SQL, Databricks where in I have Automated Excel Reports using Python, created ETL jobs in Azure Data Factory, troubleshooted
+ETL Jobs running in Azure in the production environment and I have also picked up Databricks and PySpark and I am currently learning more about the Big Data Ecosystem.
+
+Besides this, I have a knack for analysing datasets in Kaggle and working to keep myself up to dated with the Machine Learning Algorithms that there are and I have experimented
+with them to understand the nature of the Algorithm and which algorithms were better in making a decision.
+
+I am always learning and keeping myself up to date as the industry moves forward.
 
 ---
 
@@ -12,15 +19,16 @@
 | **Data Engineering** | ![SQL](https://img.shields.io/badge/-SQL-00758F?logo=mysql&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure_Synapse-0089D6?logo=microsoft-azure&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white) |
 | **Data Analysis** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![R](https://img.shields.io/badge/-R_Programming-276DC3?logo=r&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white) |
 | **Visualization** | ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white) |
+| **Machine Learning** | ![Statistics](https://img.shields.io/badge/-Statistics-darkgreen) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-black) ![Linear Regression](https://img.shields.io/badge/-Linear_Regression-blue) ![Logistic Regression](https://img.shields.io/badge/-Logistic_Regression-blue) ![Decision Trees](https://img.shields.io/badge/-Decision_Trees-00599C) ![Random Forest](https://img.shields.io/badge/-Random_Forest-00599C) |
 
 ---
 
 ### 📈 Professional Impact & Projects
 
-* [cite_start]**Automation:** Developed Python scripts that reduced manual data quality checks by **50%**.
-* [cite_start]**Modernization:** Migrated legacy ETL jobs from SAP BODS to **Azure Data Factory**[cite: 18].
-* [cite_start]**Predictive Modeling:** Built a Logistic Regression model in **R** achieving **85% accuracy** for Heart Disease prediction[cite: 26, 28].
-* [cite_start]**Engineering:** Optimized ETL workflows in **Azure Synapse** and **Databricks** for timely business reporting[cite: 15].
+* **Automation:** Developed Python scripts that reduced manual data quality checks by **50%**.
+* **Modernization:** Migrated legacy ETL jobs from SAP BODS to **Azure Data Factory**[cite: 18].
+* **Predictive Modeling:** Built a Logistic Regression model in **R** achieving **85% accuracy** for Heart Disease prediction[cite: 26, 28].
+* **Engineering:** Optimized ETL workflows in **Azure Synapse** and **Databricks** for timely business reporting[cite: 15].
 
 ---
 
@@ -34,4 +42,4 @@
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/gourab-karmakar/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gourabkarmakar1697@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gouravkarmakar8@gmail.com)
