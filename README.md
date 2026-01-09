@@ -26,9 +26,9 @@ I am always learning and keeping myself up to date as the industry moves forward
 ### 📈 Professional Impact & Projects
 
 * **Automation:** Developed Python scripts that reduced manual data quality checks by **50%**.
-* **Modernization:** Migrated legacy ETL jobs from SAP BODS to **Azure Data Factory**[cite: 18].
-* **Predictive Modeling:** Built a Logistic Regression model in **R** achieving **85% accuracy** for Heart Disease prediction[cite: 26, 28].
-* **Engineering:** Optimized ETL workflows in **Azure Synapse** and **Databricks** for timely business reporting[cite: 15].
+* **Modernization:** Migrated legacy ETL jobs from SAP BODS to **Azure Data Factory**.
+* **Predictive Modeling:** Built a Logistic Regression model in **R** achieving **85% accuracy** for Heart Disease prediction.
+* **Engineering:** Optimized ETL workflows in **Azure Synapse** and **Databricks** for timely business reporting.
 
 ---
 
