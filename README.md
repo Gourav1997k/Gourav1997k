@@ -1,12 +1,9 @@
 # Hi, I'm Gourab Karmakar 👋
 ### Data Engineer | Statistician | Azure Specialist
 
-I am a **Deputy Manager** at Protiviti.With a strong foundation in **Statistics** (M.Sc). I have a strong background in Statistics and I have more than 4 years of experience
-in the industry.  I have worked mainly in Python, SQL, Databricks where in I have Automated Excel Reports using Python, created ETL jobs in Azure Data Factory, troubleshooted
-ETL Jobs running in Azure in the production environment and I have also picked up Databricks and PySpark and I am currently learning more about the Big Data Ecosystem.
+I am a **Deputy Manager** at Protiviti. With a strong foundation in **Statistics** (M.Sc), I have more than 4 years of experience in the industry. I have worked extensively with Python, SQL, and Databricks, where I have automated Excel reports, created ETL jobs in Azure Data Factory, and managed production environments in Azure. I am currently deepening my expertise in the Big Data ecosystem using Databricks and PySpark.
 
-Besides this, I have a knack for analysing datasets in Kaggle and working to keep myself up to dated with the Machine Learning Algorithms that there are and I have experimented
-with them to understand the nature of the Algorithm and which algorithms were better in making a decision.
+Besides engineering, I have a knack for analyzing datasets on Kaggle to stay current with Machine Learning algorithms, experimenting with them to understand their behavior and decision-making strengths.
 
 I am always learning and keeping myself up to date as the industry moves forward.
 
@@ -28,8 +25,7 @@ I am always learning and keeping myself up to date as the industry moves forward
 * **Automation:** Developed Python scripts that reduced manual data quality checks by **50%**.
 * **Modernization:** Migrated legacy ETL jobs from SAP BODS to **Azure Data Factory**.
 * **Predictive Modeling:** Built a Logistic Regression model in **R** achieving **85% accuracy** for Heart Disease prediction.
-* **Engineering:** Optimized, troubleshooted, provided resolution for  ETL jobs in **Azure Synapse** and **Databricks** for timely business reporting, created dashboards in **Power BI**
-  to track Job runtimes.
+* **Engineering:** Optimized and troubleshooted ETL jobs in **Azure Synapse** and **Databricks** for business reporting; created **Power BI** dashboards to track job runtimes.
 
 ---
 
@@ -37,8 +33,9 @@ I am always learning and keeping myself up to date as the industry moves forward
 
 | Project | Tech Stack | Key Achievement |
 | :--- | :--- | :--- |
+| **[SQL Data Warehouse](https://github.com/Gourav1997k/sql-data-warehouse-project)** | `T-SQL`, `SQL Server` | Built an end-to-end DW using **Medallion Architecture** and a **Star Schema** for business analytics. |
 | **[CHD Prediction](https://github.com/Gourav1997k/Prediction_of_coronary_heart_disease_Framingham)** | `R`, `Logistic Regression` | Achieved **85% accuracy** in classifying coronary heart disease. |
-| **[NYC Airbnb Analysis](https://github.com/Gourav1997k/AirBnB_Exploratory_Data_Analysis)** | `Python`, `Pandas`, `Seaborn` | **(Work in Progress)** Performing deep EDA to identify pricing trends and host behavior. |
+| **[NYC Airbnb Analysis](https://github.com/Gourav1997k/NYC_Airbnb_Analysis)** | `Python`, `Pandas`, `Seaborn` | **(In Progress)** Applying statistical cleansing and log-transforms to identify real pricing trends. |
 | **[Vehicle Theft Analysis](https://github.com/Gourav1997k/Motor-Vehicle-thefts-SQL-EDA)** | `MySQL`, `Data Cleaning` | Mapped crime hotspots using advanced SQL query optimization. |
 
 ---
