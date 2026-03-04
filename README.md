@@ -35,7 +35,7 @@ I am always learning and keeping myself up to date as the industry moves forward
 | :--- | :--- | :--- |
 | **[SQL Data Warehouse](https://github.com/Gourav1997k/sql-data-warehouse-project)** | `T-SQL`, `SQL Server` | Built an end-to-end DW using **Medallion Architecture** and a **Star Schema** for business analytics. |
 | **[CHD Prediction](https://github.com/Gourav1997k/Prediction_of_coronary_heart_disease_Framingham)** | `R`, `Logistic Regression` | Achieved **85% accuracy** in classifying coronary heart disease. |
-| **[NYC Airbnb Analysis](https://github.com/Gourav1997k/NYC_Airbnb_Analysis)** | `Python`, `Pandas`, `Seaborn` | **(In Progress)** Applying statistical cleansing and log-transforms to identify real pricing trends. |
+| **[NYC Airbnb Analysis](https://github.com/Gourav1997k/NYC_Airbnb_Analysis)** | `Python`, `Pandas`, `Seaborn` | Performed exploratory data analysis on Airbnb listings using Python to identify pricing patterns, host behavior trends, and location-based factors affecting booking rates |
 | **[Vehicle Theft Analysis](https://github.com/Gourav1997k/Motor-Vehicle-thefts-SQL-EDA)** | `MySQL`, `Data Cleaning` | Mapped crime hotspots using advanced SQL query optimization. |
 
 ---
